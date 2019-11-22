@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #4: Relaxed clock log normal
 
-![Example #4: Relaxed clock log normal](rln_2_4.png)
+![Example #4: Relaxed clock log normal](pics/rln_2_4.png)
 
 ```{r}
 posterior <- bbt_run(
